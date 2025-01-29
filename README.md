@@ -4,9 +4,9 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulshanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="dulshanchamika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kalindu31&label=Profile%20views&color=0e75b6&style=flat" alt="Kalindu31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kalindu31" alt="Kalindu31" /></a> </p>
 
 - 🌱 I’m currently learning **Python , AI and ML**
 - 📫 How to reach me **dulshancw@gmail.com**
